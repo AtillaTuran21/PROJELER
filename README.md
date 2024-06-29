@@ -1,1 +1,1 @@
-Geliştirdiğim Mobil Uygulamalar,İnternet siteleri vb uygulamaların bulunduğu bölüm.
+Geliştirdiğim Mobil Uygulamalar,İnternet siteleri vb bulunduğu bölüm.
