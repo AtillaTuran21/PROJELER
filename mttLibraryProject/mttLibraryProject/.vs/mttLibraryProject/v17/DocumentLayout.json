@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|c:\\users\\atill\\downloads\\mttlibraryproject\\mttlibraryproject\\mttlibraryproject\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\kanit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\kanit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\kisigun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\kisigun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\kitapteslimet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\kitapteslimet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\uyeekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\uyeekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\borcgoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\borcgoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\views\\index\\kitapguncel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\views\\index\\kitapguncel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\models\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\models\\verilenkitapkanit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\models\\verilenkitapkanit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\models\\dbcntx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\models\\dbcntx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttlibraryproject\\models\\verilenkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D63863-0D8A-439E-BACE-FA5CC001B720}|mttLibraryProject\\mttLibraryProject.csproj|solutionrelative:mttlibraryproject\\models\\verilenkitaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Controllers\\IndexController.cs",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "mttLibraryProject\\Controllers\\IndexController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:33:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kisigun.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\kisigun.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\kisigun.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\kisigun.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\kisigun.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAALcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:41:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kanit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Kanit.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\Kanit.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Kanit.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\Kanit.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAALQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:49:57.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\Index.cshtml",
+              "ViewState": "AQIAABABAAAAAAAAAAAswDIBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:42:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UyeEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\UyeEkle.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\UyeEkle.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\UyeEkle.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\UyeEkle.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAALEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:17:56.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Shop.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Shop.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\Shop.cshtml",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAANsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:17:05.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Contact.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\Contact.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\Contact.cshtml",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAANkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:17:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\About.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\About.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\About.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\About.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAALIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:11:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorcGoruntule.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\BorcGoruntule.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\BorcGoruntule.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\BorcGoruntule.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\BorcGoruntule.cshtml",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAALAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:45:47.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KitapTeslimEt.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\KitapTeslimEt.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\KitapTeslimEt.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\KitapTeslimEt.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\KitapTeslimEt.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAALYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:48:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "kitapguncel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\kitapguncel.cshtml",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Views\\Index\\kitapguncel.cshtml",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Views\\Index\\kitapguncel.cshtml",
+              "RelativeToolTip": "mttLibraryProject\\Views\\Index\\kitapguncel.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T10:04:14.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VerilenKitapKanit.cs",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\VerilenKitapKanit.cs",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Models\\VerilenKitapKanit.cs",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\VerilenKitapKanit.cs",
+              "RelativeToolTip": "mttLibraryProject\\Models\\VerilenKitapKanit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:32:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbCntx.cs",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\dbCntx.cs",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Models\\dbCntx.cs",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\dbCntx.cs",
+              "RelativeToolTip": "mttLibraryProject\\Models\\dbCntx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:32:28.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Models\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\Ogrenci.cs",
+              "RelativeToolTip": "mttLibraryProject\\Models\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:32:45.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VerilenKitaplar.cs",
+              "DocumentMoniker": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\VerilenKitaplar.cs",
+              "RelativeDocumentMoniker": "mttLibraryProject\\Models\\VerilenKitaplar.cs",
+              "ToolTip": "C:\\Users\\Atill\\Downloads\\mttLibraryProject\\mttLibraryProject\\mttLibraryProject\\Models\\VerilenKitaplar.cs",
+              "RelativeToolTip": "mttLibraryProject\\Models\\VerilenKitaplar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:40:58.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
